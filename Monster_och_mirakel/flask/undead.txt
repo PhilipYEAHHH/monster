@@ -1,0 +1,20 @@
+Ghast
+Ghost
+Ghoul
+Lich
+Minotaur Skeleton
+Mummy
+Mummy Lord
+Ogre Zombie
+Shadow
+Skeleton
+Specter
+Vampire Spawn
+Vampire, Bat Form
+Vampire, Mist Form
+Vampire, Vampire Form
+Warhorse Skeleton
+Wight
+Will-o'-Wisp
+Wraith
+Zombie

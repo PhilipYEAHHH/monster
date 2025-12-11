@@ -1,0 +1,50 @@
+Acolyte
+Archmage
+Assassin
+Bandit
+Bandit Captain
+Berserker
+Bugbear
+Commoner
+Cult Fanatic
+Cultist
+Deep Gnome (Svirfneblin)
+Drow
+Druid
+Duergar
+Gladiator
+Gnoll
+Goblin
+Grimlock
+Guard
+Half-Red Dragon Veteran
+Hobgoblin
+Knight
+Kobold
+Lizardfolk
+Mage
+Merfolk
+Noble
+Orc
+Priest
+Sahuagin
+Scout
+Spy
+Thug
+Tribal Warrior
+Veteran
+Werebear, Bear Form
+Werebear, Human Form
+Werebear, Hybrid Form
+Wereboar, Boar Form
+Wereboar, Human Form
+Wereboar, Hybrid Form
+Wererat, Human Form
+Wererat, Hybrid Form
+Wererat, Rat Form
+Weretiger, Human Form
+Weretiger, Hybrid Form
+Weretiger, Tiger Form
+Werewolf, Human Form
+Werewolf, Hybrid Form
+Werewolf, Wolf Form

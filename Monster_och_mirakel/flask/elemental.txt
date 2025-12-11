@@ -1,0 +1,16 @@
+Air Elemental
+Azer
+Djinni
+Dust Mephit
+Earth Elemental
+Efreeti
+Fire Elemental
+Gargoyle
+Ice Mephit
+Invisible Stalker
+Magma Mephit
+Magmin
+Salamander
+Steam Mephit
+Water Elemental
+Xorn

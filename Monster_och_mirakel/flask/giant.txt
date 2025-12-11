@@ -1,0 +1,10 @@
+Cloud Giant
+Ettin
+Fire Giant
+Frost Giant
+Hill Giant
+Ogre
+Oni
+Stone Giant
+Storm Giant
+Troll

@@ -1,0 +1,39 @@
+Androsphinx
+Ankheg
+Basilisk
+Behir
+Bulette
+Centaur
+Chimera
+Cockatrice
+Darkmantle
+Death Dog
+Doppelganger
+Drider
+Ettercap
+Gorgon
+Grick
+Griffon
+Guardian Naga
+Gynosphinx
+Harpy
+Hippogriff
+Hydra
+Kraken
+Lamia
+Manticore
+Medusa
+Merrow
+Mimic
+Minotaur
+Owlbear
+Phase Spider
+Purple Worm
+Remorhaz
+Roc
+Roper
+Rust Monster
+Spirit Naga
+Tarrasque
+Winter Wolf
+Worg
